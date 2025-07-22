@@ -6,5 +6,5 @@ Department="C😗S😗D"
 print ("Name:",Name) 
 print ("Roll No:",Roll_No)
 print ("Subject:", subject) 
-print ( clg,(sep=",") ) 
+print ( "College:",clg) 
 print ("Department:",Department) 
